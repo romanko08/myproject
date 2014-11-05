@@ -4,4 +4,8 @@ body{
 
 div{
     display: block;
+}}
+
+p{
+    font-size: 12px;
 }
